@@ -2,29 +2,12 @@ Dimension by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
+Here you will find links to contact me on LinkedIn, a shared copy of my Resume, as well as links to GitHub and Tableau Profiles. 
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
+Using template by HTML5 UP, this project is to showcase my ability to navigate HTML files and technical skills. 
+	> Removed stock images to keep webpages simple and more to my aesthetic. 
+	> Updated About tab to showcase my Resume instead. 
+	> Linked URLs to my LinkedIn, GitHub, and Tableau Profiles.
+	> Added Heading to the first page to highlight my career path. 
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Feel free to look around and see what I have accomplished. 
